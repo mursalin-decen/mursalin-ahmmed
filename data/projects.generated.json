@@ -1,0 +1,45 @@
+[
+  {
+    "slug": "veltrix-wear",
+    "title": "Veltrix Wear",
+    "category": "E-Commerce / Full Stack",
+    "year": "2026",
+    "description": "A premium fashion commerce experience with a dark editorial interface, product catalog, cart, wishlist and deployment-ready architecture.",
+    "stack": [
+      "Django",
+      "Python",
+      "PostgreSQL",
+      "JavaScript"
+    ],
+    "link": "#",
+    "order": 1
+  },
+  {
+    "slug": "safepath-bd",
+    "title": "SafePath BD",
+    "category": "Safety / Android",
+    "year": "2026",
+    "description": "A night-safety concept focused on emergency contacts, SOS alerts, live location and rapid assistance.",
+    "stack": [
+      "Java",
+      "Android",
+      "Firebase"
+    ],
+    "link": "#",
+    "order": 2
+  },
+  {
+    "slug": "blood-donation-system",
+    "title": "Blood Donation System",
+    "category": "Web App / Community",
+    "year": "2026",
+    "description": "A searchable donor directory concept designed to connect people who need blood with available donors.",
+    "stack": [
+      "Next.js",
+      "Node.js",
+      "Database"
+    ],
+    "link": "#",
+    "order": 3
+  }
+]
